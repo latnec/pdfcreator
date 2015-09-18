@@ -1,0 +1,16 @@
+c:\users\florin.neacsu\documents\visual studio 2010\Projects\PdfCreator\PdfCreator\obj\x86\Debug\PdfCreator.csprojResolveAssemblyReference.cache
+c:\users\florin.neacsu\documents\visual studio 2010\Projects\PdfCreator\PdfCreator\bin\Debug\PdfCreator.exe
+c:\users\florin.neacsu\documents\visual studio 2010\Projects\PdfCreator\PdfCreator\bin\Debug\PdfCreator.pdb
+c:\users\florin.neacsu\documents\visual studio 2010\Projects\PdfCreator\PdfCreator\bin\Debug\PdfSharp-WPF.dll
+c:\users\florin.neacsu\documents\visual studio 2010\Projects\PdfCreator\PdfCreator\bin\Debug\PdfSharp-WPF.pdb
+c:\users\florin.neacsu\documents\visual studio 2010\Projects\PdfCreator\PdfCreator\bin\Debug\PdfSharp-WPF.xml
+c:\users\florin.neacsu\documents\visual studio 2010\Projects\PdfCreator\PdfCreator\obj\x86\Debug\PdfCreator.exe
+c:\users\florin.neacsu\documents\visual studio 2010\Projects\PdfCreator\PdfCreator\obj\x86\Debug\PdfCreator.pdb
+C:\Florin\Small_app\PdfCreator\PdfCreator\obj\x86\Debug\PdfCreator.exe
+C:\Florin\Small_app\PdfCreator\PdfCreator\obj\x86\Debug\PdfCreator.pdb
+C:\Florin\Small_app\PdfCreator\PdfCreator\bin\Debug\PdfCreator.exe
+C:\Florin\Small_app\PdfCreator\PdfCreator\bin\Debug\PdfCreator.pdb
+C:\Florin\Small_app\PdfCreator\PdfCreator\bin\Debug\PdfSharp-WPF.dll
+C:\Florin\Small_app\PdfCreator\PdfCreator\bin\Debug\PdfSharp-WPF.pdb
+C:\Florin\Small_app\PdfCreator\PdfCreator\bin\Debug\PdfSharp-WPF.xml
+C:\Florin\Small_app\PdfCreator\PdfCreator\obj\x86\Debug\PdfCreator.csprojResolveAssemblyReference.cache

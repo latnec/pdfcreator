@@ -1,0 +1,7 @@
+C:\Florin\Small_app\PdfCreator\PdfCreator\bin\Release\PdfCreator.exe
+C:\Florin\Small_app\PdfCreator\PdfCreator\bin\Release\PdfCreator.pdb
+C:\Florin\Small_app\PdfCreator\PdfCreator\bin\Release\PdfSharp-WPF.dll
+C:\Florin\Small_app\PdfCreator\PdfCreator\bin\Release\PdfSharp-WPF.pdb
+C:\Florin\Small_app\PdfCreator\PdfCreator\bin\Release\PdfSharp-WPF.xml
+C:\Florin\Small_app\PdfCreator\PdfCreator\obj\x86\Release\PdfCreator.exe
+C:\Florin\Small_app\PdfCreator\PdfCreator\obj\x86\Release\PdfCreator.pdb
